@@ -12,12 +12,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-
-label {
-  display: block;
-  margin-bottom: 10px;
-}
-
-input {
-  margin-left: 10px;
-}
